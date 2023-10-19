@@ -1,8 +1,8 @@
-# My Portfolio
+# 🚀 My Portfolio
 
 Welcome to my portfolio repository! This repository showcases my personal website and various assets, including HTML, CSS, fonts, images, JavaScript, and PHP code.
 
-## Repository Structure
+## 📂 Repository Structure
 
 This repository contains the following assets and directories:
 
@@ -14,9 +14,10 @@ This repository contains the following assets and directories:
 - `js/`: JavaScript files for interactive elements or functionality.
 - `php/`: PHP files for server-side functionality (if applicable).
 
-## Getting Started
+## 🚀 Getting Started
 
 If you want to view my portfolio or use any of the assets in your project, follow these steps:
+
 1. Clone the repository to your local machine:
 
    ```bash
